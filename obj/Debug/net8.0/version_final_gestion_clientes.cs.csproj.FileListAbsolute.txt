@@ -1,0 +1,14 @@
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\bin\Debug\net8.0\version_final_gestion_clientes.cs.exe
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\bin\Debug\net8.0\version_final_gestion_clientes.cs.deps.json
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\bin\Debug\net8.0\version_final_gestion_clientes.cs.runtimeconfig.json
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\bin\Debug\net8.0\version_final_gestion_clientes.cs.dll
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\bin\Debug\net8.0\version_final_gestion_clientes.cs.pdb
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.AssemblyInfoInputs.cache
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.AssemblyInfo.cs
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.csproj.CoreCompileInputs.cache
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.dll
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\refint\version_final_gestion_clientes.cs.dll
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.pdb
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\version_final_gestion_clientes.cs.genruntimeconfig.cache
+C:\Users\modoa\source\repos\version_final_gestion_clientes.cs\version_final_gestion_clientes.cs\obj\Debug\net8.0\ref\version_final_gestion_clientes.cs.dll
