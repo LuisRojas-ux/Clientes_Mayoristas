@@ -13,7 +13,7 @@ namespace Proyecto2
             int op = 0;
             Console.WriteLine("Bienvenido a LJP Enterprises");
 
-            while (op != 7)
+            while (op != 7)// que fino es esto chamo :)
             {
                 Console.WriteLine("\nPor favor Seleccione una operacion:");
                 Console.WriteLine("1. Gestion De Clientes mayoristas");
